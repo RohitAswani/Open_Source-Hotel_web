@@ -1,7 +1,12 @@
 # Open_Source-Hotel_web
 
 <h1><i> <b>In this the colour is odd so you can do it right and some margins are not covered properly so you can make it perfect.
-Thank you </i></b></h1>![Screenshot (22)](https://user-images.githubusercontent.com/99210504/220434509-7d7b4fea-a54d-4792-ad80-0f035a9cd6c8.png)
+Thank you </i></b></h1>
+
+
+
+
+![Screenshot (22)](https://user-images.githubusercontent.com/99210504/220434509-7d7b4fea-a54d-4792-ad80-0f035a9cd6c8.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/99210504/220434550-4c4f688e-2a2e-4740-8703-d4624abcd68e.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/99210504/220434590-ac5ba8cb-43aa-4c09-8c99-fc365670967b.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/99210504/220434645-004d8dae-1175-415f-abfd-91712357b63c.png)
